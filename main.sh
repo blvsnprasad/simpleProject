@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "build 6"
 echo "script started"
 echo "main.sh file"
 ls -l
